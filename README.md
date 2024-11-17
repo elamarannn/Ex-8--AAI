@@ -1,5 +1,5 @@
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
-<H3>NAME: Elamaran S</H3>
+<H3>NAME: Elamaran S E</H3>
 <H3>REGISTER NO: 212222230036</H3>
 <H3>EX. NO.8</H3>
 <H3>Aim:</H3> 
